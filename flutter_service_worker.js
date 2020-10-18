@@ -4,15 +4,15 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "426313f2f3133c2f20415344c4a22df3",
-"index.html": "c4247af23298f3c623a6d252e0f42b28",
-"/": "c4247af23298f3c623a6d252e0f42b28",
+"index.html": "279dc8faa123a61112d3e87f4003350c",
+"/": "279dc8faa123a61112d3e87f4003350c",
 "loader.css": "88bd43227da828c5607229d66a53e647",
-"main.dart.js": "1acc5fb526bd3bfd61bdaec4bea3fc28",
+"main.dart.js": "e44e2a6aab000824418988f681c50383",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "a83bbbd9d23ea4d752fbcd44cdc544fa",
-"assets/AssetManifest.json": "cbeb6a3f9ce0e2a1e3bc78515d0ae951",
+"assets/AssetManifest.json": "d173c5b6acef7a965bba9beb96f0a764",
 "assets/NOTICES": "987acbc9b0f948e04f50fcab31e091db",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
@@ -20,11 +20,11 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a126c025bab9a1b4d8ac5534af76a208",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "831eb40a2d76095849ba4aecd4340f19",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/assets/images/screenshots/sample_screenshot.jpg": "b3612210e5edffca2528379b69fd866e",
+"assets/assets/images/screenshots/telfaza_screenshots.jpg": "934738d29de22d9abd3ff83ee119e403",
 "assets/assets/images/background.jpg": "610a58a90bd983fa0f1d91421a3129e9",
 "assets/assets/images/ao.png": "543b225f2c1f8cf3bc598f2d7b5b293c",
 "assets/assets/images/about.jpg": "d161229b8bccd6a3a542c706fb6e1676",
-"assets/assets/json/projects.json": "f7c0f8eb727088bba8747d3eaba9037d",
+"assets/assets/json/projects.json": "915990fd1aee4a723d07ef0fc44ab690",
 "jquery.js": "12b69d0ae6c6f0c42942ae6da2896e84",
 ".idea/workspace.xml": "97286530e8aaa1c3756ab1734e841b98"
 };

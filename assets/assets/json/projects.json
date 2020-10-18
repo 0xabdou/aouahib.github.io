@@ -1,13 +1,12 @@
 {
   "projects": [
     {
-      "title" : "Restu mobile site",
-      "description": "For czech startup Restu.cz I created mobile version of their site. I was responsible for UI design, interactions & front-end development.",
-      "screenshotPath": "assets/images/screenshots/sample_screenshot.jpg",
+      "title" : "TELFAZA",
+      "description": "TELFAZA is a mobile app that helps you keep track of movies you watched or you're planning to watch. It uses TMDB api to get movie data, and Firebase for authentication/database. It allows you to search movies, filter the results, mark movies as favorite... etc. It works for both Android and iOS.",
+      "screenshotPath": "assets/images/screenshots/telfaza_screenshots.jpg",
       "videoUrl": "https://youtu.be/XjatPASva2E",
-      "githubUrl": "https://github.com/zettai-dev",
-      "appStoreUrl": "https://www.apple.com/app-store/",
-      "playStoreUrl": "https://play.google.com/store/apps"
+      "githubUrl": "https://github.com/zettai-dev/telfaza",
+      "apkUrl": "https://github.com/zettai-dev/telfaza/raw/master/apk/app-release.apk"
     }
   ]
 }
