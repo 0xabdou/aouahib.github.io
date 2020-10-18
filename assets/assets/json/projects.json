@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "title" : "Restu mobile site",
+      "description": "For czech startup Restu.cz I created mobile version of their site. I was responsible for UI design, interactions & front-end development.",
+      "screenshotPath": "assets/images/screenshots/sample_screenshot.jpg",
+      "videoUrl": "https://youtu.be/XjatPASva2E",
+      "githubUrl": "https://github.com/zettai-dev",
+      "appStoreUrl": "https://www.apple.com/app-store/",
+      "playStoreUrl": "https://play.google.com/store/apps"
+    }
+  ]
+}
