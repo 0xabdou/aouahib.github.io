@@ -1,6 +1,12 @@
 {
   "projects": [
     {
+      "title" : "Green Market",
+      "description": "A mobile app for the marketing of agricultural products, my job included turning the design mockups into functional UI, localizing it to both French and Arabic, managing all the different states of the app, and collaborating with the back-end team to make sure we end up with a secure and highly performant product.",
+      "screenshotPath": "assets/images/screenshots/greenmarket_screenshots.jpg",
+      "videoUrl": "https://youtu.be/-s_Lu-c0Tzk"
+    },
+    {
       "title" : "TELFAZA",
       "description": "TELFAZA is a mobile app that helps you keep track of movies you watched or you're planning to watch. It uses TMDB api to get movie data, and Firebase for authentication/database. It allows you to search movies, filter the results, mark movies as favorite... etc.",
       "screenshotPath": "assets/images/screenshots/telfaza_screenshots.jpg",
